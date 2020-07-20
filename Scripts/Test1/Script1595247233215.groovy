@@ -33,3 +33,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Test1_OR/Page_CURA Heal
 
 WebUI.click(findTestObject('Object Repository/Test1_OR/Page_CURA Healthcare Service/button_Login'))
 
+WebUI.closeBrowser()
+
